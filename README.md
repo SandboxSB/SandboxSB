@@ -1,11 +1,11 @@
 <h1 align="center">Hi I'm SB!</h1>
 <h3 align="center">Welcome to my profile!</h3>
 
-- 🤝 I’m looking for help with [Python](C#)
+- I’m looking for help with [Python](C#)
 
-- 💬 Ask me about **Question, Code**
+- Ask me about **Question, Code**
 
-- 📫 My Email **sandboxtvlimted@gmail.com**
+- My Email **sandboxtvlimted@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
